@@ -10,10 +10,10 @@
 
 O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em Javascript
 
-- Foi criada uma estrutura simples no HTML
-- Criado um visual moderno e responsivo com o CSS
-- Utilizada uma forma funcional para realizar as operações com Javascript para que o cliente adicione qualquer link ou mensagem na aba para que seja gerado o QRcode.
-- Utilizado o consumo de uma API para a realização deste projeto.
+- Foi criada uma estrutura simples no HTML;
+- Criado um visual moderno e responsivo com o CSS;
+- Utilizada uma forma funcional para realizar as operações com Javascript para que o cliente adicione qualquer link ou mensagem na aba para que seja gerado o QRcode;
+- Utilizado o consumo de uma API para a realização e funcionalidade deste projeto.
 
 ## Resultado final em Desktop:
 
