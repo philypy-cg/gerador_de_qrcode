@@ -8,7 +8,7 @@
 
 
 
-O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em Javascript.
+O Objetivo deste projeto foi se aprofundar e aprimorar os conhecimentos em Javascript Puro.
 
 - Foi criada uma estrutura simples no HTML;
 - Criado um visual moderno e responsivo com o CSS;
